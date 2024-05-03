@@ -1,0 +1,6 @@
+@HttpProcessorMock_HostAddress = http://localhost:5110
+
+GET {{HttpProcessorMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
